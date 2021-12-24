@@ -990,9 +990,8 @@ textarea {
         width: 100%;
     }
 
-    #contacts .contacts .map iframe {
-        width: 90%;
-        height: 300px;
+    #contacts .contacts .map {
+        width: 100%;
     }
 }
 
